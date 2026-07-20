@@ -131,7 +131,35 @@ http://127.0.0.1:5000/
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+### 🏠 Homepage
+
+![TechPilot AI homepage featuring the main title Explore Your Future in Tech with hero icons, two prominent cards displaying Cybersecurity and Blockchain career pathways with descriptive text, and a footer containing social media links and contact options in a professional light-themed layout](assets/homepage.png)
+
+---
+
+### 🛡️ Cybersecurity Page
+
+![Cybersecurity career guidance page showcasing a shield icon with a padlock, fingerprint scanner, and gears on a dark blue digital network background, accompanied by comprehensive career information and certification recommendations](assets/cybersecurity.png)
+
+---
+
+### ⛓️ Blockchain Page
+
+![Blockchain career guidance page displaying a central blockchain network illustration with interconnected nodes, Bitcoin and other cryptocurrency symbols, surrounded by detailed career opportunities and learning resource recommendations](assets/blockchain.png)
+
+---
+
+### Feedback Form
+![Feedback submission form with input fields for email address, name, and message textarea, along with a submit button, set against a clean card-based interface](assets/feedback.png)
+
+---
+
+### Frequently Asked Questions
+![Frequently Asked Questions page featuring a collection of expandable question and answer pairs addressing common inquiries about Cybersecurity and Blockchain careers in an organized list format](assets/faq.png)
+### 📱 Mobile Responsive View
+
+### Mobile View Homepage
+![TechPilot AI mobile application view displaying the responsive homepage layout on a smartphone screen with compact card designs for Cybersecurity and Blockchain sections, plus footer navigation links optimized for small screens](assets/mobile homepage.png)
 
 ---
 
