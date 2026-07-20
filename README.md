@@ -156,9 +156,10 @@ http://127.0.0.1:5000/
 
 ### Frequently Asked Questions
 ![Frequently Asked Questions page featuring a collection of expandable question and answer pairs addressing common inquiries about Cybersecurity and Blockchain careers in an organized list format](assets/faq.png)
-### 📱 Mobile Responsive View
 
-### Mobile View Homepage
+---
+
+### 📱Mobile View Homepage
 ![TechPilot AI mobile application view displaying the responsive homepage layout on a smartphone screen with compact card designs for Cybersecurity and Blockchain sections, plus footer navigation links optimized for small screens](assets/mobile homepage.png)
 
 ---
