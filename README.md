@@ -160,7 +160,7 @@ http://127.0.0.1:5000/
 ---
 
 ### 📱Mobile View Homepage
-![TechPilot AI mobile application view displaying the responsive homepage layout on a smartphone screen with compact card designs for Cybersecurity and Blockchain sections, plus footer navigation links optimized for small screens](assets/mobile homepage.png)
+![TechPilot AI mobile application view displaying the responsive homepage layout on a smartphone screen with compact card designs for Cybersecurity and Blockchain sections, plus footer navigation links optimized for small screens](assets/mobilehomepage.png)
 
 ---
 
